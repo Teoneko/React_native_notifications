@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29941678131",
+    "project_id": "reactnativetestapp-d1344",
+    "storage_bucket": "reactnativetestapp-d1344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29941678131:android:9ae0e5e0745eaa19bfe346",
+        "android_client_info": {
+          "package_name": "com.rn_notif_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29941678131-ummqckklotqml7ra33ufmug9vr24h7ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2KWnXitCr4FenbMzQjEhUTOwGRDMK-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29941678131-ummqckklotqml7ra33ufmug9vr24h7ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
